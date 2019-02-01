@@ -1769,35 +1769,12 @@ body {
 }
 .cid-qWOaE1O4RK {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qWOaE1O4RK .mbr-text,
 .cid-qWOaE1O4RK blockquote {
   color: #767676;
-}
-.cid-qWOaBsqUGY {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qWOaBsqUGY .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qWOaBsqUGY .section-text {
-  padding: 2rem 0;
-}
-.cid-qWOaBsqUGY .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qWOaBsqUGY .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-qWOcXV1tEK {
   padding-top: 60px;
